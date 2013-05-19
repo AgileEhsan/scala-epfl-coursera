@@ -1,0 +1,19 @@
+.DS_Store
+.class
+.log
+
+# sbt
+target/
+dist/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+
+# Scala-IDE
+.scala_dependencies
+.metadata
+.cache
+.classpath
+.project
+.settings/
